@@ -1,0 +1,5 @@
+=== BLOGGER POST METADATA ===
+TITLE: AI Mental Health Tools: How to Spot a Safe App
+DESCRIPTION: Cut through the noise. A clinical review of AI mental health tools in 2026 — which are evidence-backed, which are dangerous, and how to use them alongside human care.
+LABELS: AI in mental health 2026, AI therapy tools, AI vs human therapist, mental health chatbot evidence, AI cognitive behavioral therapy
+PERMALINK: ai-mental-health-2026
