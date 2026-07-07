@@ -64,7 +64,7 @@ def process_all_blogs():
         style_content = re.sub(r"content:\s*['\"](?:♥|â™¥)['\"];", "content: '\\\\2665';", style_content)
         
         # Replace star icons to prevent &#10022; text output
-        style_content = re.sub(r"content:\s*['\"](?:✦|âœ¦)['\"];", "content: '\\\\2726';", style_content)
+        style_content = re.sub(r"content:\s*['\"](?:✦|✦)['\"];", "content: '\\\\2726';", style_content)
         
         # Replace microscope emojis to prevent &#128300; text output
         style_content = re.sub(r"content:\s*['\"]🔬['\"];", "content: '\\\\1F52C';", style_content)
