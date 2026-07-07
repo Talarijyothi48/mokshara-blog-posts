@@ -167,9 +167,6 @@ custom_styles = """
     object-fit: cover;
     object-position: center 8% !important;
   }
-  .footer-avatar[src*="jyothi"] {
-    object-position: 37% 20% !important;
-  }
   .footer-founder-card h4 {
     font-family: 'Playfair Display', Georgia, serif;
     font-size: 1.2rem;
