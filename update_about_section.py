@@ -23,7 +23,7 @@ about_founders_html = """
       <!-- Founder 2 -->
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; margin: 0 auto 0.6rem; border-radius: 50%; border: 3px solid var(--gold); overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnj9d2kgKerb6KuTzVwdTl4BNgPoN-wh2Y0c1DuFby4fEEqwZ_-pzkmVMW1ucpz1VEWFnnUn4TfuaEGnMIYXuFw-KB0sFurMgvXi8UuFnZn9Z7L7KWpG77JZPh19XwrkRGgKwcLosCYOsFguCbNikmmnV7WkppvtLMMR4iH9zUajJtBzKx0SBNmtoEl_A/s1600/devi.jpeg" alt="Devi" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%;">
+          <img src="https://mokshara.indevs.in/assets/devi.jpeg" alt="Devi" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%;">
         </div>
         <h4 class="author-name" style="margin: 0.2rem 0; font-family: var(--font-heading); font-size: 1.15rem; color: var(--navy-bg); font-weight: 700;">Devi</h4>
         <span class="author-title" style="margin-bottom: 0.5rem; font-family: var(--font-ui); font-size: 0.7rem; font-weight: 700; color: var(--teal); text-transform: uppercase; letter-spacing: 0.08em; display: block;">Founder & Somatic Specialist</span>

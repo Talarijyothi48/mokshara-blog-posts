@@ -31,7 +31,7 @@ footer_html = """
       </div>
       <div class="footer-founder-card">
         <div class="footer-avatar-container">
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnj9d2kgKerb6KuTzVwdTl4BNgPoN-wh2Y0c1DuFby4fEEqwZ_-pzkmVMW1ucpz1VEWFnnUn4TfuaEGnMIYXuFw-KB0sFurMgvXi8UuFnZn9Z7L7KWpG77JZPh19XwrkRGgKwcLosCYOsFguCbNikmmnV7WkppvtLMMR4iH9zUajJtBzKx0SBNmtoEl_A/s1600/devi.jpeg" alt="Devi" class="footer-avatar" onerror="this.style.display='none'"/>
+          <img src="https://mokshara.indevs.in/assets/devi.jpeg" alt="Devi" class="footer-avatar" onerror="this.style.display='none'"/>
         </div>
         <h4>Devi</h4>
         <span class="footer-role">Founder &amp; Somatic Specialist</span>
