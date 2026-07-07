@@ -23,7 +23,7 @@ footer_html = """
     <div class="footer-founder-profiles">
       <div class="footer-founder-card">
         <div class="footer-avatar-container">
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDb-Tp_Dj_tmmqYx0KlhoLi26O5T_1caWARDGsr4xj01sz06WGHtJJdNFxN-zgfl-GW8uIjw4ozxD59Gl9ZLcQe3UDQoX9ixqbxCuwlf93rJacRvJrfjf9b30XgSYeDUsUbCr8c6B-IUvedShGOY5hCBeyGJE1k4SdGVMqJb1Tfzn-0_kpVBWwmmJkQU8/s1600/jyothi.jpeg" alt="Jyothi Talari" class="footer-avatar" onerror="this.style.display='none'"/>
+          <img src="https://mokshara.indevs.in/assets/jyothi.jpeg" alt="Jyothi Talari" class="footer-avatar" onerror="this.style.display='none'"/>
         </div>
         <h4>Jyothi Talari</h4>
         <span class="footer-role">Founder &amp; Wellness Practitioner</span>
