@@ -23,7 +23,7 @@ footer_html = """
     <div class="footer-founder-profiles">
       <div class="footer-founder-card">
         <div class="footer-avatar-container">
-          <img src="https://mokshara.indevs.in/assets/jyothi.jpeg" alt="Jyothi Talari" class="footer-avatar" onerror="this.style.display='none'"/>
+          <img src="https://mokshara.indevs.in/assets/jyothi.jpeg?v=1.2" alt="Jyothi Talari" class="footer-avatar" onerror="this.style.display='none'"/>
         </div>
         <h4>Jyothi Talari</h4>
         <span class="footer-role">Founder &amp; Wellness Practitioner</span>
@@ -31,7 +31,7 @@ footer_html = """
       </div>
       <div class="footer-founder-card">
         <div class="footer-avatar-container">
-          <img src="https://mokshara.indevs.in/assets/devi.jpeg" alt="Devi" class="footer-avatar" onerror="this.style.display='none'"/>
+          <img src="https://mokshara.indevs.in/assets/devi.jpeg?v=1.2" alt="Devi" class="footer-avatar" onerror="this.style.display='none'"/>
         </div>
         <h4>Devi</h4>
         <span class="footer-role">Founder &amp; Somatic Specialist</span>
